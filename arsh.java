@@ -2,7 +2,7 @@ import java.util.*;
 public class arsh {
     public static void main(String[] args) {
 
-       System.out.println("hello world ytyfrtyru ");
+       System.out.println("hello world ");
     }
 }
 /*git init
